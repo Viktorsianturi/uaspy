@@ -8,8 +8,20 @@ b).Kemudian clone URL Repositori,disini saya memakai gitbash:
 
 berikut screenshotnya: ![alt text](https://github.com/Viktorsianturi/uaspy/blob/master/IMG_20190423_110213.jpg)
 
-c).open project menggunakan pycharm, lalu setting environment location 
+c).Open project menggunakan pycharm, lalu setting environment location 
 
 Berikut Screenshootnya : ![alt text](https://raw.githubusercontent.com/Viktorsianturi/uaspy/master/IMG_20190423_112246.jpg)
 
-d).install packages pygame, berikut cara-caranya :
+d).Install packages pygame, seperti gambar dibawah :
+
+Berikut Screenshootnya : ![alt text](https://github.com/Viktorsianturi/uaspy/blob/master/IMG_20190429_140650.jpg)
+
+
+Berikut tampilan apabila pygame telah teristal :
+
+Berikut Screenshootnya : ![alt text](https://github.com/Viktorsianturi/uaspy/blob/master/IMG_20190429_140924.jpg)
+
+e.Masukkan class utama dengan menurunkan dari class BaseApp dengan nama App (di main.py)
+
+Berikut screensshootnya: (https://github.com/Viktorsianturi/uaspy/blob/master/Screenshot%20(58).png)
+
