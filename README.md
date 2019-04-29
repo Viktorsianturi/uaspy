@@ -23,5 +23,5 @@ Berikut Screenshootnya : ![alt text](https://github.com/Viktorsianturi/uaspy/blo
 
 e.Masukkan class utama dengan menurunkan dari class BaseApp dengan nama App (di main.py)
 
-Berikut screensshootnya:! [alt text](https://github.com/Viktorsianturi/uaspy/blob/master/Screenshot%20(58).png)
+Berikut screensshootnya:![alt text](https://github.com/Viktorsianturi/uaspy/blob/master/Screenshot%20(58).png)
 
