@@ -25,3 +25,6 @@ e.Masukkan class utama dengan menurunkan dari class BaseApp dengan nama App (di 
 
 Berikut screensshootnya:![alt text](https://github.com/Viktorsianturi/uaspy/blob/master/Screenshot%20(58).png)
 
+f. Run program dan hasilnya sebagai berikut:
+
+berikut screeshotnya :![alt text](https://github.com/Viktorsianturi/uaspy/commit/42dd00510f16690b7eaf6b8399ddfaf9959245bb?short_path=8bdc1ab#diff-8bdc1abb4809bec8143f31a677797d0a)
