@@ -34,4 +34,4 @@ Berikut screensshootnya:![alt text](https://github.com/Viktorsianturi/uaspy/blob
 
 f. Run program dan hasilnya sebagai berikut:
 
-Berikut Screenshootnya : ![alt text](https://github.com/Viktorsianturi/uaspy/blob/master/IMG_20190429_140650.jpg)
+Berikut Screenshootnya : ![alt text](https://github.com/Viktorsianturi/uaspy/blob/master/img23.png)
