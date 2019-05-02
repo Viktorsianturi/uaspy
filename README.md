@@ -1,5 +1,12 @@
 # UAS Bahasa Pemrograman 1
 
+NAMA : VICTOR M SIANTURI
+
+KELAS: TI.18.C.2
+
+NIM  : 311810676
+
+
 a).Melakukan Fork dari repository berikut : https://github.com/abuazzam/uaspy.git setelah itu clone ke local:
 
 berikut screenshotnya: ![alt text](https://github.com/Viktorsianturi/uaspy/blob/8feb3294199b3ef5a200e16d7237fb85a859ed2d/IMG_20190423_104537.jpg)
@@ -27,4 +34,4 @@ Berikut screensshootnya:![alt text](https://github.com/Viktorsianturi/uaspy/blob
 
 f. Run program dan hasilnya sebagai berikut:
 
-berikut screeshotnya :![alt text](https://github.com/Viktorsianturi/uaspy/commit/42dd00510f16690b7eaf6b8399ddfaf9959245bb?short_path=8bdc1ab#diff-8bdc1abb4809bec8143f31a677797d0a)
+Berikut Screenshootnya : ![alt text](https://github.com/Viktorsianturi/uaspy/blob/master/IMG_20190429_140650.jpg)
